@@ -1,0 +1,6 @@
+*/issues/*
+*/special_issues/*
+issues/
+*.pdf
+.idea
+windows/downloader.ps1
